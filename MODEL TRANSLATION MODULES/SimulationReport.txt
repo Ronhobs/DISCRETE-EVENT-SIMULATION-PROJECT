@@ -1,0 +1,16 @@
+--- Simulation Report ---
+
+Simulation Time: 3000 minutes
+Total Utilization: 66.86%
+Average Total Service Time Across All Servers: 346.67 minutes
+Revenue from Commuter Flight: $38500.00
+Total Cost: $4222.24
+Profit from Commuter Flight: $34277.76
+Average Idle Time Per Agent: 2.50 minutes
+
+Detailed Service Times:
+Average Arrival Time: 161.58 minutes
+Average Time to Print Boarding Pass: 2.23 minutes
+Average Time to Check Bags: 0.84 minutes
+Average Time for Problems and Delays: 1.98 minutes
+Average Time for Screening: 2.23 minutes

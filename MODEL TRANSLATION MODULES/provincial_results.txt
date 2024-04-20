@@ -1,0 +1,7 @@
+Simulation Time: 3000 minutes
+Total Utilization: 0.70%
+Average total service time across all servers: 82.68 minutes
+Total revenue from commuter Flight: $288000.00
+Total cost: $18914.32
+Total Profit from commuter Flight: $269085.68
+Average idle time per agent: 0.93 minutes
