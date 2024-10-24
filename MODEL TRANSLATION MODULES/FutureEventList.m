@@ -4,7 +4,7 @@ classdef FutureEventList
     properties
         list      % Collection of events
         listSize  % Number of events in the FEL
-    end 
+    end
     methods
         % Constructor
         function obj = FutureEventList(firstEvent)
