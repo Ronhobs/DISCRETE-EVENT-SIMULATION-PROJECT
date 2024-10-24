@@ -6,6 +6,7 @@ classdef FutureEventList
         listSize  % Number of events in the FEL
     end
     methods
+    
         % Constructor
         function obj = FutureEventList(firstEvent)
             if nargin > 0 % Ensures that firstEvent is provided
